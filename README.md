@@ -24,6 +24,8 @@ Install Android environment (JDK, SDK) by following [these instructions](http://
 
 ## Register at Google
 
+Creating a Google API project
+
 - Open the [Google Developers Console](https://console.developers.google.com/).
 - If you haven't created an API project yet, click Create Project.
 - Supply a project name and click Create.
