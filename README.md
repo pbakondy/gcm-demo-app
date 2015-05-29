@@ -75,7 +75,7 @@ Add Push Notification handler Cordova plugin
 ionic plugin add com.clone.phonegap.plugins.pushplugin
 ```
 
-Add JS libraries:
+Add [ngCordova](http://ngcordova.com/) and [cordova-airbop-client](https://github.com/pbakondy/cordova-airbop-client) JS libraries:
 
 ```
 bower install ngCordova cordova-airbop-client
