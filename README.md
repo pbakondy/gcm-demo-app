@@ -69,7 +69,7 @@ ionic start --appname gcmdemo --id com.pbakondy.gcmdemo gcmdemo blank
 cd gcmdemo
 ```
 
-Add Push Notification handler Cordova plugin
+Add [Push Notification handler](https://github.com/phonegap-build/PushPlugin) Cordova plugin
 
 ```
 ionic plugin add com.clone.phonegap.plugins.pushplugin
