@@ -77,10 +77,10 @@ Add [Push Notification handler](https://github.com/phonegap-build/PushPlugin) Co
 ionic plugin add com.clone.phonegap.plugins.pushplugin
 ```
 
-Add [ngCordova](http://ngcordova.com/) and [cordova-airbop-client](https://github.com/pbakondy/cordova-airbop-client) JS libraries:
+Add [ngCordova](http://ngcordova.com/) and [ionic-airbop-client](https://github.com/pbakondy/ionic-airbop-client) JS libraries:
 
 ```
-bower install ngCordova cordova-airbop-client
+bower install ngCordova ionic-airbop-client
 ```
 
 Copy/overwrite the files from this repository into your project:
